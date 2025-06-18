@@ -14,8 +14,6 @@ This project enables you to build and deploy a real-time teaching platform with:
 
 AI vocal agents powered by **Vapi** enhance the learning experience by delivering human-like voice interactions.
 
-If you encounter bugs or need help, join our [Discord community](https://discord.com) with **50k+ developers** sharing knowledge and support.
-
 ---
 
 ## ⚙️ Tech Stack
