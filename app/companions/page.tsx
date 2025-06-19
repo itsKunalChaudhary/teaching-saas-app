@@ -26,6 +26,7 @@ const CompanionsLibrary = async ({ searchParams }: SearchParams) => {
                         key={companion.id}
                         {...companion}
                         color={getSubjectColor(companion.subject)}
+                        bookmarked={companion.bookmarked}
                     />
                 ))}
             </section>
